@@ -1,4 +1,4 @@
-Folked from P3TERX/Actions-OpenWrt, WIP, Do not use.
+Forked from P3TERX/Actions-OpenWrt, WIP, Do not use.
 
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
